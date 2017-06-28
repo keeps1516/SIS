@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8D5E3B1D-FFD2-430D-A25F-3FC49F3EBBBA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC_SIS/Content/bootstrap.css">
+    <Files>
+      <File FileName="MVC_SIS/Content/bootstrap.css" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MVC__SIS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
